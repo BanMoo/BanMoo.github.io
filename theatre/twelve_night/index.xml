@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Twelve_Night on AutoPhugo</title>
-    <link>http://example.org/theatre/twelve_night/</link>
+    <link>http://banmoo.github.io/theatre/twelve_night/</link>
     <description>Recent content in Twelve_Night on AutoPhugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>kc0bfv@gmail.com (Karl Sickendick)</managingEditor>
     <webMaster>kc0bfv@gmail.com (Karl Sickendick)</webMaster>
-    <lastBuildDate>Tue, 17 Aug 2021 19:26:38 +0800</lastBuildDate><atom:link href="http://example.org/theatre/twelve_night/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2021 19:26:38 +0800</lastBuildDate><atom:link href="http://banmoo.github.io/theatre/twelve_night/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
